@@ -5,3 +5,5 @@ y la utilización de ramas en git. Izan
 Actualmente se ha creado una rama nueva
 para modificar el archivo historia mezclado previamente
 con la rama main
+
+Anthuan ha fallecido debido a cancer de pulmón al fumar tantos puros cubanos
