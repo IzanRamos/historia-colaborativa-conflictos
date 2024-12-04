@@ -6,4 +6,8 @@ Actualmente se ha creado una rama nueva
 para modificar el archivo historia mezclado previamente
 con la rama main
 
+<<<<<<< HEAD
+Anthuan ha fallecido debido a cancer de pulmón al fumar tantos puros cubanos
+=======
 el anthu corona y pica la mina
+>>>>>>> 8944fe71f1096384a3f445b4c4cea830416b86a8
